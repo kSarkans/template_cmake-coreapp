@@ -1,0 +1,29 @@
+###########################################
+#              Project files              #
+###########################################
+
+.vs
+.vscode
+.cache
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.code-workspace
+Makefile
+Makefile.user
+
+###########################################
+#               Build files               #
+###########################################
+
+Build
+build
+out
+*.obj
+*.pdb
+*.exp
+*.exe
+*.dll
+*.lib
+*.so
+*.a
